@@ -1,0 +1,3 @@
+<?php
+$decimalNumber = 10;
+echo decbin($decimalNumber);
