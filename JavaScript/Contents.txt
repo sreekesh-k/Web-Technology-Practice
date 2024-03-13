@@ -1,0 +1,38 @@
+2.1. Pop-up Boxes
+Write a program to implement pop-up boxes available in JavaScript.
+
+2.2. Displaying the Larger Integer
+Write a JavaScript program that accepts two integers and displays the larger.
+
+2.3. Email Validation
+Implement Email Validation in JavaScript.
+
+2.4. Sorting an Array
+Write a JavaScript program to sort the items of an array.
+
+2.5. Function Call Demonstration
+Demonstrate function calls in JavaScript.
+
+2.6. Uppercase Character Check
+Write a JavaScript program to test if the first character of a string is uppercase or not.
+
+2.7. Decimal to Binary Conversion
+Write a JavaScript Program to Convert Decimal to Binary.
+
+2.8. Display Current Date and Time
+Create a webpage that displays the current date and time using JavaScript.
+
+2.9. Random Background Color Change
+Implement a JavaScript program to change the background color randomly.
+
+2.10. Pyramid Pattern
+Write a JavaScript program to construct the pyramid pattern using a nested for loop.
+
+2.11. Quadratic Equations Solver
+Write a JavaScript Program to Solve Quadratic Equations.
+
+2.12. Vowel Counting
+Write a JavaScript function that accepts a string as a parameter and counts the number of vowels within the string.
+
+2.13. Toggle Password Visibility
+Write a program to Toggle Password Visibility in JavaScript.

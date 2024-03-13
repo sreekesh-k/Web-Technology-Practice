@@ -1,0 +1,5 @@
+3.1. Fibonacci Sequence Demonstration
+Write a program to demonstrate the Fibonacci sequence in JSON.
+
+3.2. Leap Year Checker
+Write a program to check leap years.

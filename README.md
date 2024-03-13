@@ -141,7 +141,3 @@ Create a simple Laravel web application displaying the CAE2 Marks of MSc CS stud
 
 ### 5.10. Student Web Application
 Create a simple Laravel web application for students including registration form, form validations, student login with session handling, and multiple web pages with a standard layout.
-
-## PORTFOLIO
-
-## PROJECT

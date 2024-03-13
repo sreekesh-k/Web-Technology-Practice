@@ -1,0 +1,29 @@
+4.1. Armstrong Number Checker
+Write a PHP program to check whether a given number is Armstrong or not.
+
+4.2. Cookie Illustration
+Write a PHP program to illustrate Cookies.
+
+4.3. Leap Year Check
+Check whether a year is a leap year or not by inserting a year in PHP.
+
+4.4. Static Properties Implementation
+Write a program to Implement static properties in PHP.
+
+4.5. Global Variable Access
+Write a PHP program to use the global keyword to access a global variable from within a function.
+
+4.6. Decimal to Binary Conversion
+Write a PHP program to convert a decimal number into a binary number.
+
+4.7. Storing Date/Time in a Cookie
+Write a PHP program to store the current date/time in a cookie and display the 'last visited on' date and time on the web page upon reopening the same page.
+
+4.8. Array Operations
+Write a PHP program to create an array and perform various operations like displaying contents, sorting, removing duplicates, etc.
+
+4.9. Email Sending Script
+Write the PHP script to send an email.
+
+4.10. CRUD Operations with MySQL
+Write a PHP program to implement MySQL databases with CRUD operations.

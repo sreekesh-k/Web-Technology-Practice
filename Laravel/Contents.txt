@@ -1,0 +1,29 @@
+5.1. Simple Laravel Web Application
+Program to illustrate the workings of a simple Laravel web application.
+
+5.2. Bootstrap Framework Implementation
+Program to demonstrate the implementation of the Bootstrap framework in Laravel.
+
+5.3. Laravel Web Application with Form Validations
+Program to illustrate the creation of a Laravel web application with all form validations.
+
+5.4. Login Page Creation
+Create a Login page using the Laravel framework.
+
+5.5. Session Handling
+Program to implement session handling using the Laravel framework.
+
+5.6. Database CRUD Operations
+Write a program to execute database CRUD operations in the Laravel framework.
+
+5.7. Simple Laravel Web Application (CRUD Operations)
+Create a simple Laravel Web Application including registration form with all form validations and performing CRUD operations using migrations.
+
+5.8. Blog Creation Web Application
+Create a Web Application for Blog Creation with a Login and Registration form and perform CRUD operations on blogs using the Laravel framework.
+
+5.9. CAE2 Marks Display Web Application
+Create a simple Laravel web application displaying the CAE2 Marks of MSc CS students, including student and teacher login and various operations like adding, viewing, updating, and deleting marks.
+
+5.10. Student Web Application
+Create a simple Laravel web application for students including registration form, form validations, student login with session handling, and multiple web pages with a standard layout.
