@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horizontal Scroll</title>
+    <style>
+        body{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            width: 100vh;
+            overflow-x: scroll;
+            overflow-y: hidden;
+            white-space: nowrap;
+        }
+
+        .item {
+            display: inline-block;
+            width: 100vh;
+            height: 400px;
+            margin: 10px;
+            background-color: rgba(57, 165, 57, 0.7);
+            scroll-snap-align: start;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item">1</div>
+        <div class="item">2</div>
+        <div class="item">3</div>
+        <div class="item">4</div>
+        <div class="item">5</div>
+        <div class="item">6</div>
+        <div class="item">7</div>
+        <div class="item">8</div>
+        <div class="item">9</div>
+    </div>
+</body>
+
+</html>
